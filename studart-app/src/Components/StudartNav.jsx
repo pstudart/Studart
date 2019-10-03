@@ -1,9 +1,9 @@
 import React from 'react';
 
-class TopSection extends React.Component{
+class StudartNav extends React.Component{
     render(){
-        return 
-        
+        return(
+
         <nav class="flex-nav">
             <ul>
                 <li><a href="#">item 01</a></li>
@@ -30,7 +30,7 @@ class TopSection extends React.Component{
                 </li>
             </ul>
         </nav>
-
+        )
     }
 }
-export default TopSection;
+export default StudartNav;

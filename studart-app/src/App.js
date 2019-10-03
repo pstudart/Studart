@@ -1,16 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import TopSection from './Components/TopSection';
+import StudartNav from './Components/StudartNav'
+
+
 
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        
-    <TopSection />
-        
+       <StudartNav />
       </header>
     </div>
   );
