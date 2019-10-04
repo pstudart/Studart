@@ -1,4 +1,16 @@
 /* Flex Container */
+a {
+    color:white;
+    font-weight:100;
+    letter-spacing: 2px;
+    text-decoration:none;
+    background:rgba(0,0,0,0.2);
+    }
+    
+    a:hover{
+    background:rgba(0,0,0,0.3)
+    }
+    
 .flex-nav ul{
     border: 1px solid black;
     list-style:none;
