@@ -1,6 +1,7 @@
 import React from 'react';
 /*import './App.css';*/
 import StudartNav from './Components/StudartNav'
+import StudartLogo from './Components/StudartLogo'
 
 
 
@@ -8,6 +9,7 @@ import StudartNav from './Components/StudartNav'
 function App() {
   return (
     <div className="App">
+      <StudartLogo />
 <StudartNav />
     </div>
   );
