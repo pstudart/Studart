@@ -6,9 +6,9 @@ class StudartNav extends React.Component{
 
         <nav class="flex-nav">
             <ul>
-                <li><a href="www.google.com">item01</a></li>
-                <li><a href="www.google.com">item02</a></li>
-                <li><a href="www.google.com">item03</a></li>
+                <li><a href="www.google.com">My Work</a></li>
+                <li><a href="www.google.com">About Me</a></li>
+                <li><a href="www.google.com">Training</a></li>
                 <li><a href="www.google.com">item04</a></li>
                 <li><a href="www.google.com">item05</a></li>
                 <li><a href="www.google.com">item06</a></li>

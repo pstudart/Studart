@@ -8,9 +8,7 @@ import StudartNav from './Components/StudartNav'
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-       <StudartNav />
-      </header>
+<StudartNav />
     </div>
   );
 }
