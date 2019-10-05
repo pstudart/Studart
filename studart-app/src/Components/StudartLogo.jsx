@@ -5,7 +5,7 @@ class StudartLogo extends React.Component{
     render(){
         return(
 
-       <div class="mainlogo">
+       <div className="mainlogo">
            <p><img src={Logo} alt="Logo" /></p>
        </div>
         )
