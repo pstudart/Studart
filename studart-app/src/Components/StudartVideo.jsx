@@ -5,14 +5,17 @@ class StudartVideo extends React.Component{
     render(){
         return(
 
-       <div className="box">
-           <div className="box-image">
-           <p><img src={this.props.URL} alt={this.props.AltDesc} /></p>
-           </div>
-           <div className="box-description">
-
-           </div>
-       </div>
+       <div className="videobox">
+           <a href={this.props.VideoUrl}>
+               <img src={this.props.ImageURL} alt={this.props.AltDesc} />
+            
+           
+           <h4 className="videobox-desc">
+                {this.props.Description}
+           </h4>
+           </a>
+        </div>
+       
            
         )
     }
