@@ -4,6 +4,7 @@ import './index.css';
 import './CSS/StudartNav.css';
 import './CSS/StudartLogo.css';
 import './CSS/StudartVideo.css';
+import './CSS/StudartVideoContainer.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 

@@ -7,7 +7,7 @@ class StudartVideo extends React.Component{
 
        <div className="videobox">
            <a href={this.props.VideoUrl}>
-               <img src={this.props.ImageURL} alt={this.props.AltDesc} />
+               <img src={this.props.ThumbnailImage} alt={this.props.AltDesc} />
             
            
            <h4 className="videobox-desc">

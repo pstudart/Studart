@@ -1,0 +1,9 @@
+.VideosHeaderText {
+    text-align:center;
+    font-size:2Rem;
+}
+.Videos{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+}
