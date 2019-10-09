@@ -6,7 +6,7 @@ class StudartNav extends React.Component{
 
         <nav className="flex-nav">
             <ul>
-                <li><a href="www.google.com">Event Handlers</a></li>
+                <li><a href="www.google.com">All Videos</a></li>
                 <li><a href="www.google.com">Workflows</a></li>
                 <li><a href="www.google.com">API's</a></li>
                 <li><a href="www.google.com">My Resume</a></li>
@@ -22,7 +22,7 @@ class StudartNav extends React.Component{
                         <i className="fa fa-facebook"></i></a>
                 </li>
                 <li className="social">
-                    <a href="http://github.com/patrickstudart">
+                    <a href="http://github.com/pstudart">
                         <i className="fa fa-github"></i></a>
                 </li>
             </ul>

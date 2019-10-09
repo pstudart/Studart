@@ -1,9 +1,12 @@
 .VideosHeaderText {
     text-align:center;
     font-size:2Rem;
+    border:5px solid white;
+    background:white;
 }
 .Videos{
     display:flex;
     flex-wrap:wrap;
     justify-content: center;
 }
+
