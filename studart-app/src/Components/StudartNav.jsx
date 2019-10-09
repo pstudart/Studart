@@ -6,10 +6,10 @@ class StudartNav extends React.Component{
 
         <nav className="flex-nav">
             <ul>
-                <li><a href="www.google.com">All Videos</a></li>
-                <li><a href="www.google.com">Workflows</a></li>
-                <li><a href="www.google.com">API's</a></li>
-                <li><a href="www.google.com">My Resume</a></li>
+                <li><a href="/pages/All.html">All Videos</a></li>
+                <li><a href="/pages/Workflows.html">Workflows</a></li>
+                <li><a href="/pages/APIs.html">API's</a></li>
+                <li><a href="/pages/Resume.html">My Resume</a></li>
                 
                 
                 
