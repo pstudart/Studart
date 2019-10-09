@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from '../Images/Logo_500w150h.png'
+import Logo from '../Images/MainLogo/Logo_500w150h.png'
 
 class StudartLogo extends React.Component{
     render(){
