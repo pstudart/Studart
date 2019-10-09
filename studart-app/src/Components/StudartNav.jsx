@@ -6,12 +6,12 @@ class StudartNav extends React.Component{
 
         <nav className="flex-nav">
             <ul>
-                <li><a href="www.google.com">My Work</a></li>
-                <li><a href="www.google.com">About Me</a></li>
-                <li><a href="www.google.com">Training</a></li>
-                <li><a href="www.google.com">item04</a></li>
-                <li><a href="www.google.com">item05</a></li>
-                <li><a href="www.google.com">item06</a></li>
+                <li><a href="www.google.com">Infowise Training</a></li>
+                <li><a href="www.google.com">Nintex Training</a></li>
+                <li><a href="www.google.com">API Training</a></li>
+                
+                
+                
                 <li className="social">
                     <a href="http://twitter.com/patrickstudart">
                         <i className="fa fa-twitter"></i></a>
