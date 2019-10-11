@@ -1,3 +1,19 @@
-.mainlogo{
+
+@media (min-width: 601px) {
+   .mainlogo{
    text-align:center;
+}
+	.logo-small {
+		display: none !important;
+	}
+}
+
+@media (max-width: 600px) {
+   .mainlogo{
+   text-align:center;
+}
+   .logo-big {
+		display: none !important;
+	}
+
 }
