@@ -1,6 +1,6 @@
 import React from 'react';
-import StudartNav from './StudartNav'
 import StudartLogo from './StudartLogo'
+import StudartNav from './StudartNav'
 import StudartVideoContainer from './StudartVideoContainer'
 import StudartVideo from './StudartVideo'
 import uniqueId from '../Images/Thumbnails/CreateUniqueID.png'
