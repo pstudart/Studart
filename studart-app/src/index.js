@@ -5,10 +5,11 @@ import './CSS/StudartNav.css';
 import './CSS/StudartLogo.css';
 import './CSS/StudartVideo.css';
 import './CSS/StudartVideoContainer.css';
-import App from './App';
+/*import App from './App';*/
+import Router from "./Components/Router";
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<Router />, document.getElementById('root'));
 
 
 
