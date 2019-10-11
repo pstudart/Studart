@@ -1,5 +1,4 @@
 import React from 'react';
-/*import './App.css';*/
 import StudartNav from './Components/StudartNav'
 import StudartLogo from './Components/StudartLogo'
 import StudartVideoContainer from './Components/StudartVideoContainer'
@@ -7,9 +6,13 @@ import StudartVideo from './Components/StudartVideo'
 import uniqueId from './Images/Thumbnails/CreateUniqueID.png'
 
 
-function App() {
+
+
+
+
+function Workflows() {
   return (
-    <div className="App">
+    <div className="Workflows">
       <StudartLogo />
         <StudartNav />
         <StudartVideoContainer>
@@ -23,6 +26,4 @@ function App() {
   );
 }
 
-export default App;
-
-
+export default Workflows;
